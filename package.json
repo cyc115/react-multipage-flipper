@@ -1,5 +1,5 @@
 {
-  "name": "react-flipper",
+  "name": "react-multipage-flipper",
   "version": "1.0.0",
   "description": "a multi-page react flipper component",
   "main": "index.js",

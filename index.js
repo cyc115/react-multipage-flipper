@@ -1,3 +1,1 @@
-import Flipper from './src/Flipper'
-
-export { Flipper }
+module.exports = require('./src/Flipper')
